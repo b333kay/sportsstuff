@@ -1,6 +1,24 @@
 # North American Major Sports Parity Analysis (2000–2025 seasons)
 
 Parity across MLB (World Series), NHL (Stanley Cup Final), NFL (Super Bowl) and NBA (NBA Finals), corrected and rebuilt as of Oct 11, 2026.
+Human Author Note:
+- I took a stab at initial manual count then got fed up so had Google Gemini then Claude to generate this final MD final.
+- Claude used the following sources
+- [World Series champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_World_Series_champions)
+- [Stanley Cup champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions)
+- [NBA champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_NBA_champions)
+- [Super Bowl champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions)
+- [2026 Stanley Cup Final (Wikipedia)](https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final)
+- [Hurricanes win 2026 Stanley Cup Final (NHL.com)](https://www.nhl.com/news/carolina-hurricanes-win-2026-stanley-cup-final)
+- [Stanley Cup Final 2026 recap (CBS Sports)](https://mauth.cbssports.com/nhl/news/stanley-cup-final-2026-vegas-golden-knights-carolina-hurricanes-scores-schedule-where-to-watch-stream/)
+- [Stanley Cup Final 2026 recap (ABC)](https://abc.com/news/ed76eafb-f813-4750-af47-db35385d34d5/category/1138628)
+- [2026 NHL Stanley Cup Playoffs results (DIRECTV)](https://www.directv.com/binge/nhl-playoffs/)
+- [2026 NBA Finals (Wikipedia)](https://en.wikipedia.org/wiki/2026_NBA_Finals)
+- [Knicks are the 2026 NBA champions (ESPN)](https://www.espn.com/story/_/id/48419498)
+- [Super Bowl LX 2026 results (sportsbrackets.net)](https://sportsbrackets.net/2026/02/08/super-bowl-lx-2026-results-seahawks-vs-patriots-final-score-key-plays-mvp-props-hits-misses-printable-recap-sheet/)
+- [2026 World Series schedule (Ticketmaster)](https://blog.ticketmaster.com/mlb-world-series-explained/)
+- [2026 MLB playoffs schedule (PrizePicks)](https://www.prizepicks.com/playbook-article/when-is-the-world-series-full-2026-mlb-playoffs-schedule)
+
 
 ## Scope and conventions
 
