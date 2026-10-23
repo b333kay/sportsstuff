@@ -1,30 +1,15 @@
-# North American Major Sports Parity Analysis (2000–2025 seasons)
+Updated: Oct 23, 2026, 1:13 PM PDT
 
-Parity across MLB (World Series), NHL (Stanley Cup Final), NFL (Super Bowl) and NBA (NBA Finals), corrected and rebuilt as of Oct 11, 2026.
-Human Author Note:
-- I took a stab at initial manual count then got fed up so had Google Gemini then Claude to generate this final MD final.
-- Claude used the following sources
-  - [World Series champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_World_Series_champions)
-  - [Stanley Cup champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions)
-  - [NBA champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_NBA_champions)
-  - [Super Bowl champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions)
-  - [2026 Stanley Cup Final (Wikipedia)](https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final)
-  - [Hurricanes win 2026 Stanley Cup Final (NHL.com)](https://www.nhl.com/news/carolina-hurricanes-win-2026-stanley-cup-final)
-  - [Stanley Cup Final 2026 recap (CBS Sports)](https://mauth.cbssports.com/nhl/news/stanley-cup-final-2026-vegas-golden-knights-carolina-hurricanes-scores-schedule-where-to-watch-stream/)
-  - [Stanley Cup Final 2026 recap (ABC)](https://abc.com/news/ed76eafb-f813-4750-af47-db35385d34d5/category/1138628)
-  - [2026 NHL Stanley Cup Playoffs results (DIRECTV)](https://www.directv.com/binge/nhl-playoffs/)
-  - [2026 NBA Finals (Wikipedia)](https://en.wikipedia.org/wiki/2026_NBA_Finals)
-  - [Knicks are the 2026 NBA champions (ESPN)](https://www.espn.com/story/_/id/48419498)
-  - [Super Bowl LX 2026 results (sportsbrackets.net)](https://sportsbrackets.net/2026/02/08/super-bowl-lx-2026-results-seahawks-vs-patriots-final-score-key-plays-mvp-props-hits-misses-printable-recap-sheet/)
-  - [2026 World Series schedule (Ticketmaster)](https://blog.ticketmaster.com/mlb-world-series-explained/)
-  - [2026 MLB playoffs schedule (PrizePicks)](https://www.prizepicks.com/playbook-article/when-is-the-world-series-full-2026-mlb-playoffs-schedule)
+# North American Major Sports Parity Analysis (2000–2026 seasons)
 
+Parity across MLB (World Series), NHL (Stanley Cup Final), NFL (Super Bowl) and NBA (NBA Finals), corrected and rebuilt. 
+MLB includes the 2026 World Series (Brewers vs. Rays, Game 1 on Oct 23, 2026) as **provisional**: neither team has ever won a title, so every count and percentage below is final whichever team wins. Only the placement of the Brewers and Rays (champion vs. finalist-only) is pending.
 
 ## Scope and conventions
 
 | League | First championship in window | Last championship in window | Championships (k) | Notes |
 | :--- | :--- | :--- | :---: | :--- |
-| MLB | 2000 World Series (Yankees–Mets) | 2025 (Dodgers–Blue Jays) | 26 | 2026 World Series starts Oct 23, 2026 and is **excluded** |
+| MLB | 2000 World Series (Yankees–Mets) | 2026 (Brewers–Rays, in progress) | 27 | 2026 World Series starts Oct 23, 2026 and is **included as provisional**; counts are the same whichever team wins |
 | NHL | 2000–01 season (Avalanche–Devils) | 2025–26 (Hurricanes–Golden Knights) | 25 | 2004–05 lockout: no Final |
 | NFL | 2000 season, Super Bowl XXXV (Ravens–Giants) | 2025 season, Super Bowl LX (Seahawks–Patriots) | 26 | 2026 season not yet played |
 | NBA | 2000–01 season (Lakers–76ers) | 2025–26 (Knicks–Spurs) | 26 | |
@@ -43,16 +28,16 @@ How the lists are organized: **champions** show years won; **finalists** are tea
 
 | League | Finals (k) | Weighted N̄ | Unique champions | Unique finalists | **Finalist parity** | **Champion parity** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLB | 26 | 30.000 | 16 | 22 | **73.33%** | **53.33%** |
+| MLB | 27 | 30.000 | 17 | 23 | **76.67%** | **56.67%** |
 | NHL | 25 | 30.560 | 14 | 24 | **78.53%** | **45.81%** |
 | NFL | 26 | 31.923 | 13 | 20 | **62.65%** | **40.72%** |
 | NBA | 26 | 29.846 | 13 | 18 | **60.31%** | **43.56%** |
 
 Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA, NFL.
 
-### MLB (30 lineages: 16 champions, 6 finalist-only, 8 never)
+### MLB (30 lineages: 17 champions, 6 finalist-only, 7 never)
 
-**Unique champions (16)**
+**Unique champions (17)**
 - Boston Red Sox — 2004, 2007, 2013, 2018
 - Los Angeles Dodgers — 2020, 2024, 2025
 - San Francisco Giants — 2010, 2012, 2014
@@ -69,20 +54,23 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 - Philadelphia Phillies — 2008
 - Texas Rangers — 2023
 - Washington Nationals (ex-Montreal Expos) — 2019
+- **Milwaukee Brewers or Tampa Bay Rays — 2026 (pending; first title for either)**
 
 **Unique finalists, lost every Final (6)**
 - Detroit Tigers — 2006, 2012
 - New York Mets — 2000, 2015
-- Tampa Bay Rays — 2008, 2020
+- Tampa Bay Rays — 2008, 2020, 2026 †
+- Milwaukee Brewers — 2026 †
 - Cleveland Guardians — 2016
 - Colorado Rockies — 2007
 - Toronto Blue Jays — 2025
 
-**Never reached a Final (8)**
+† One of these two wins the 2026 World Series and moves up to champions; the other stays here. The count is 6 either way.
+
+**Never reached a Final (7)**
 - Athletics (Oakland → Las Vegas)
 - Baltimore Orioles
 - Cincinnati Reds
-- Milwaukee Brewers
 - Minnesota Twins
 - Pittsburgh Pirates
 - San Diego Padres
@@ -213,16 +201,16 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 
 | League | Total markets in window | Finalist markets | **Finalist market parity** | Champion markets | **Champion market parity** |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| MLB | 32 | 22 | **68.75%** | 16 | **50.00%** |
+| MLB | 32 | 23 | **71.88%** | 17 | **53.13%** |
 | NHL | 34 | 24 | **70.59%** | 14 | **41.18%** |
 | NFL | 35 | 21 | **60.00%** | 13 | **37.14%** |
 | NBA | 34 | 18 | **52.94%** | 13 | **38.24%** |
 
-Ranking — finalist market parity: NHL, MLB, NFL, NBA. Champion market parity: MLB, NHL, NBA, NFL.
+Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: MLB, NHL, NBA, NFL.
 
-### MLB (32 markets: 16 champions, 6 finalist-only, 10 never)
+### MLB (32 markets: 17 champions, 6 finalist-only, 9 never)
 
-**Unique champions (16)**
+**Unique champions (17)**
 - Boston Red Sox — 2004, 2007, 2013, 2018
 - Los Angeles Dodgers — 2020, 2024, 2025
 - San Francisco Giants — 2010, 2012, 2014
@@ -239,20 +227,23 @@ Ranking — finalist market parity: NHL, MLB, NFL, NBA. Champion market parity: 
 - Philadelphia Phillies — 2008
 - Texas Rangers — 2023
 - Washington Nationals — 2019
+- **Milwaukee Brewers or Tampa Bay Rays — 2026 (pending; first title for either)**
 
 **Unique finalists, lost every Final (6)**
 - Detroit Tigers — 2006, 2012
 - New York Mets — 2000, 2015
-- Tampa Bay Rays — 2008, 2020
+- Tampa Bay Rays — 2008, 2020, 2026 †
+- Milwaukee Brewers — 2026 †
 - Cleveland Guardians — 2016
 - Colorado Rockies — 2007
 - Toronto Blue Jays — 2025
 
-**Never reached a Final (10)**
+† One of these two wins the 2026 World Series and moves up to champions; the other stays here. The count is 6 either way.
+
+**Never reached a Final (9)**
 - Baltimore Orioles
 - Cincinnati Reds
 - Las Vegas Athletics (counted per ruling; the move is planned for 2028)
-- Milwaukee Brewers
 - Minnesota Twins
 - Montreal Expos
 - Oakland Athletics
@@ -391,7 +382,7 @@ Ranking — finalist market parity: NHL, MLB, NFL, NBA. Champion market parity: 
 
 ## How N̄ was built
 
-* **MLB:** 30 teams × 26 = 780 → 30.000
+* **MLB:** 30 teams × 27 = 810 → 30.000
 * **NHL:** 16 × 30 (2000–01 to 2016–17, lockout year excluded) + 4 × 31 (2017–18 to 2020–21, Vegas) + 5 × 32 (2021–22 to 2025–26, Seattle) = 764 → 764/25 = 30.560
 * **NFL:** 2 × 31 (2000, 2001 seasons) + 24 × 32 (2002–2025, Houston joins 2002) = 830 → 830/26 = 31.923
 * **NBA:** 4 × 29 (2000–01 to 2003–04) + 22 × 30 (2004–05 to 2025–26, Charlotte Bobcats join) = 776 → 776/26 = 29.846
@@ -407,7 +398,7 @@ Two relocations beyond the ones specified (Hornets → New Orleans, Nets → Bro
 
 ## Corrections to the earlier version
 
-* MLB unique champions are 16, not 15; only 26 World Series are complete, not 27.
+* MLB unique champions are 16 through 2025 (17 once the 2026 World Series is decided), not 15. The earlier version's 27 seasons counted 2026 before it was played; it is now included as provisional.
 * NHL unique finalists are 24, not 22.
 * NBA unique champions are 13 (Knicks, 2026) and finalists 18, not 12 and 19.
 * NFL finalists are 20 for this window (the 21 in the earlier version counted Super Bowl XXXIV's Titans).
@@ -416,6 +407,24 @@ Two relocations beyond the ones specified (Hornets → New Orleans, Nets → Bro
 
 ## Caveats
 
-* Unique-count parity depends on the number of finals (k). A pure lottery with the same k and N̄ would produce about 17.6 (MLB), 17.3 (NHL), 18.0 (NFL) and 17.5 (NBA) unique champions, against 16, 14, 13 and 13 observed.
+* Unique-count parity depends on the number of finals (k). A pure lottery with the same k and N̄ would produce about 18.0 (MLB, k = 27), 17.3 (NHL), 18.0 (NFL) and 17.5 (NBA) unique champions, against 17, 14, 13 and 13 observed.
 * Table 2's denominator includes every market that hosted a team in the window, so leagues with more relocations (NBA, NFL) are penalized slightly; a seasons-weighted market denominator would remove this.
-* Update MLB after the 2026 World Series (Oct 23 onward).
+* When the 2026 World Series ends, move the winner from the pending line to the champions list with its year; the other team stays under finalists. Counts and percentages do not change.
+
+## Sources
+
+* [World Series champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_World_Series_champions)
+* [Stanley Cup champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Stanley_Cup_champions)
+* [NBA champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_NBA_champions)
+* [Super Bowl champions (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions)
+* [2026 Stanley Cup Final (Wikipedia)](https://en.wikipedia.org/wiki/2026_Stanley_Cup_Final)
+* [Hurricanes win 2026 Stanley Cup Final (NHL.com)](https://www.nhl.com/news/carolina-hurricanes-win-2026-stanley-cup-final)
+* [Stanley Cup Final 2026 recap (ABC)](https://abc.com/news/ed76eafb-f813-4750-af47-db35385d34d5/category/1138628)
+* [2026 NHL Stanley Cup Playoffs results (DIRECTV)](https://www.directv.com/binge/nhl-playoffs/)
+* [2026 NBA Finals (Wikipedia)](https://en.wikipedia.org/wiki/2026_NBA_Finals)
+* [Knicks are the 2026 NBA champions (ESPN)](https://www.espn.com/story/_/id/48419498)
+* [Super Bowl LX 2026 results (sportsbrackets.net)](https://sportsbrackets.net/2026/02/08/super-bowl-lx-2026-results-seahawks-vs-patriots-final-score-key-plays-mvp-props-hits-misses-printable-recap-sheet/)
+* [2026 World Series schedule (Ticketmaster)](https://blog.ticketmaster.com/mlb-world-series-explained/)
+* [2026 MLB playoffs schedule (PrizePicks)](https://www.prizepicks.com/playbook-article/when-is-the-world-series-full-2026-mlb-playoffs-schedule)
+* [What you need to know about the 2026 World Series (MLB.com)](https://www.mlb.com/rays/news/2026-mlb-world-series-faq-schedule-times-teams-and-more)
+* [Brewers will face Rays for 2026 championship (FOX6 Milwaukee)](https://www.fox6now.com/sports/brewers-world-series-rays-2026)
