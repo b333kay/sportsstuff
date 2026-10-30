@@ -1,20 +1,19 @@
-Updated: Oct 23, 2026, 1:13 PM PDT
+Updated: Oct 30, 2026, 12:24 AM PDT
 
 # North American Major Sports Parity Analysis (2000–2026 seasons)
 
-Parity across MLB (World Series), NHL (Stanley Cup Final), NFL (Super Bowl) and NBA (NBA Finals), corrected and rebuilt. 
-MLB includes the 2026 World Series (Brewers vs. Rays, Game 1 on Oct 23, 2026) as **provisional**: neither team has ever won a title, so every count and percentage below is final whichever team wins. Only the placement of the Brewers and Rays (champion vs. finalist-only) is pending.
+Parity across ⚾ MLB (World Series), 🏒 NHL (Stanley Cup Final), 🏈 NFL (Super Bowl) and 🏀 NBA (NBA Finals), corrected and rebuilt. ⚾ MLB includes the completed 2026 World Series: the Milwaukee Brewers beat the Tampa Bay Rays for their first title.
 
 ## Scope and conventions
 
 | League | First championship in window | Last championship in window | Championships (k) | Notes |
 | :--- | :--- | :--- | :---: | :--- |
-| MLB | 2000 World Series (Yankees–Mets) | 2026 (Brewers–Rays, in progress) | 27 | 2026 World Series starts Oct 23, 2026 and is **included as provisional**; counts are the same whichever team wins |
-| NHL | 2000–01 season (Avalanche–Devils) | 2025–26 (Hurricanes–Golden Knights) | 25 | 2004–05 lockout: no Final |
-| NFL | 2000 season, Super Bowl XXXV (Ravens–Giants) | 2025 season, Super Bowl LX (Seahawks–Patriots) | 26 | 2026 season not yet played |
-| NBA | 2000–01 season (Lakers–76ers) | 2025–26 (Knicks–Spurs) | 26 | |
+| ⚾ MLB | 2000 World Series (Yankees–Mets) | 2026 (Brewers–Rays) | 27 | |
+| 🏒 NHL | 2000–01 season (Avalanche–Devils) | 2025–26 (Hurricanes–Golden Knights) | 25 | 2004–05 lockout: no Final |
+| 🏈 NFL | 2000 season, Super Bowl XXXV (Ravens–Giants) | 2025 season, Super Bowl LX (Seahawks–Patriots) | 26 | 2026 season not yet played |
+| 🏀 NBA | 2000–01 season (Lakers–76ers) | 2025–26 (Knicks–Spurs) | 26 | |
 
-Year labels in the lists below: MLB by calendar year; NFL by season (the Super Bowl is played the following Feb); NHL and NBA by season (e.g. 2000–01).
+Year labels in the lists below: ⚾ MLB by calendar year; 🏈 NFL by season (the Super Bowl is played the following Feb); 🏒 NHL and 🏀 NBA by season (e.g. 2000–01).
 
 Metrics:
 - **Team-lineage parity** merges relocations into one lineage (Expos → Nationals, SuperSonics → Thunder, Thrashers → Jets, Vancouver Grizzlies → Memphis). Expansion teams and revived names are separate lineages (Utah Mammoth ≠ Coyotes, LA Rams ≠ LA Chargers, Charlotte Bobcats ≠ original Hornets). Parity = unique lineages ÷ time-weighted average league size (N̄).
@@ -28,14 +27,14 @@ How the lists are organized: **champions** show years won; **finalists** are tea
 
 | League | Finals (k) | Weighted N̄ | Unique champions | Unique finalists | **Finalist parity** | **Champion parity** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| MLB | 27 | 30.000 | 17 | 23 | **76.67%** | **56.67%** |
-| NHL | 25 | 30.560 | 14 | 24 | **78.53%** | **45.81%** |
-| NFL | 26 | 31.923 | 13 | 20 | **62.65%** | **40.72%** |
-| NBA | 26 | 29.846 | 13 | 18 | **60.31%** | **43.56%** |
+| ⚾ MLB | 27 | 30.000 | 17 | 23 | **76.67%** | **56.67%** |
+| 🏒 NHL | 25 | 30.560 | 14 | 24 | **78.53%** | **45.81%** |
+| 🏈 NFL | 26 | 31.923 | 13 | 20 | **62.65%** | **40.72%** |
+| 🏀 NBA | 26 | 29.846 | 13 | 18 | **60.31%** | **43.56%** |
 
-Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA, NFL.
+Ranking — finalist parity: 🏒 NHL, ⚾ MLB, 🏈 NFL, 🏀 NBA. Champion parity: ⚾ MLB, 🏒 NHL, 🏀 NBA, 🏈 NFL.
 
-### MLB (30 lineages: 17 champions, 6 finalist-only, 7 never)
+### ⚾ MLB (30 lineages: 17 champions, 6 finalist-only, 7 never)
 
 **Unique champions (17)**
 - Boston Red Sox — 2004, 2007, 2013, 2018
@@ -54,18 +53,15 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 - Philadelphia Phillies — 2008
 - Texas Rangers — 2023
 - Washington Nationals (ex-Montreal Expos) — 2019
-- **Milwaukee Brewers or Tampa Bay Rays — 2026 (pending; first title for either)**
+- Milwaukee Brewers — 2026
 
 **Unique finalists, lost every Final (6)**
 - Detroit Tigers — 2006, 2012
 - New York Mets — 2000, 2015
-- Tampa Bay Rays — 2008, 2020, 2026 †
-- Milwaukee Brewers — 2026 †
+- Tampa Bay Rays — 2008, 2020, 2026
 - Cleveland Guardians — 2016
 - Colorado Rockies — 2007
 - Toronto Blue Jays — 2025
-
-† One of these two wins the 2026 World Series and moves up to champions; the other stays here. The count is 6 either way.
 
 **Never reached a Final (7)**
 - Athletics (Oakland → Las Vegas)
@@ -76,7 +72,7 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 - San Diego Padres
 - Seattle Mariners
 
-### NHL (33 lineages: 14 champions, 10 finalist-only, 9 never)
+### 🏒 NHL (33 lineages: 14 champions, 10 finalist-only, 9 never)
 
 **Unique champions (14)**
 - Chicago Blackhawks — 2009–10, 2012–13, 2014–15
@@ -117,7 +113,7 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 - Utah Mammoth
 - Winnipeg Jets (ex-Atlanta Thrashers)
 
-### NFL (32 lineages: 13 champions, 7 finalist-only, 12 never)
+### 🏈 NFL (32 lineages: 13 champions, 7 finalist-only, 12 never)
 
 **Unique champions (13)**
 - New England Patriots — 2001, 2003, 2004, 2014, 2016, 2018
@@ -157,7 +153,7 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 - Tennessee Titans
 - Washington Commanders
 
-### NBA (30 lineages: 13 champions, 5 finalist-only, 12 never)
+### 🏀 NBA (30 lineages: 13 champions, 5 finalist-only, 12 never)
 
 **Unique champions (13)**
 - Los Angeles Lakers — 2000–01, 2001–02, 2008–09, 2009–10, 2019–20
@@ -201,14 +197,14 @@ Ranking — finalist parity: NHL, MLB, NFL, NBA. Champion parity: MLB, NHL, NBA,
 
 | League | Total markets in window | Finalist markets | **Finalist market parity** | Champion markets | **Champion market parity** |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| MLB | 32 | 23 | **71.88%** | 17 | **53.13%** |
-| NHL | 34 | 24 | **70.59%** | 14 | **41.18%** |
-| NFL | 35 | 21 | **60.00%** | 13 | **37.14%** |
-| NBA | 34 | 18 | **52.94%** | 13 | **38.24%** |
+| ⚾ MLB | 32 | 23 | **71.88%** | 17 | **53.13%** |
+| 🏒 NHL | 34 | 24 | **70.59%** | 14 | **41.18%** |
+| 🏈 NFL | 35 | 21 | **60.00%** | 13 | **37.14%** |
+| 🏀 NBA | 34 | 18 | **52.94%** | 13 | **38.24%** |
 
-Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: MLB, NHL, NBA, NFL.
+Ranking — finalist market parity: ⚾ MLB, 🏒 NHL, 🏈 NFL, 🏀 NBA. Champion market parity: ⚾ MLB, 🏒 NHL, 🏀 NBA, 🏈 NFL.
 
-### MLB (32 markets: 17 champions, 6 finalist-only, 9 never)
+### ⚾ MLB (32 markets: 17 champions, 6 finalist-only, 9 never)
 
 **Unique champions (17)**
 - Boston Red Sox — 2004, 2007, 2013, 2018
@@ -227,18 +223,15 @@ Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: 
 - Philadelphia Phillies — 2008
 - Texas Rangers — 2023
 - Washington Nationals — 2019
-- **Milwaukee Brewers or Tampa Bay Rays — 2026 (pending; first title for either)**
+- Milwaukee Brewers — 2026
 
 **Unique finalists, lost every Final (6)**
 - Detroit Tigers — 2006, 2012
 - New York Mets — 2000, 2015
-- Tampa Bay Rays — 2008, 2020, 2026 †
-- Milwaukee Brewers — 2026 †
+- Tampa Bay Rays — 2008, 2020, 2026
 - Cleveland Guardians — 2016
 - Colorado Rockies — 2007
 - Toronto Blue Jays — 2025
-
-† One of these two wins the 2026 World Series and moves up to champions; the other stays here. The count is 6 either way.
 
 **Never reached a Final (9)**
 - Baltimore Orioles
@@ -251,7 +244,7 @@ Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: 
 - San Diego Padres
 - Seattle Mariners
 
-### NHL (34 markets: 14 champions, 10 finalist-only, 10 never)
+### 🏒 NHL (34 markets: 14 champions, 10 finalist-only, 10 never)
 
 **Unique champions (14)**
 - Chicago Blackhawks — 2009–10, 2012–13, 2014–15
@@ -293,7 +286,7 @@ Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: 
 - Utah Mammoth
 - Winnipeg Jets
 
-### NFL (35 markets: 13 champions, 8 finalist-only, 14 never)
+### 🏈 NFL (35 markets: 13 champions, 8 finalist-only, 14 never)
 
 **Unique champions (13)**
 - New England Patriots — 2001, 2003, 2004, 2014, 2016, 2018
@@ -336,7 +329,7 @@ Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: 
 - Tennessee Titans
 - Washington Commanders
 
-### NBA (34 markets: 13 champions, 5 finalist-only, 16 never)
+### 🏀 NBA (34 markets: 13 champions, 5 finalist-only, 16 never)
 
 **Unique champions (13)**
 - Los Angeles Lakers — 2000–01, 2001–02, 2008–09, 2009–10, 2019–20
@@ -382,34 +375,34 @@ Ranking — finalist market parity: MLB, NHL, NFL, NBA. Champion market parity: 
 
 ## How N̄ was built
 
-* **MLB:** 30 teams × 27 = 810 → 30.000
-* **NHL:** 16 × 30 (2000–01 to 2016–17, lockout year excluded) + 4 × 31 (2017–18 to 2020–21, Vegas) + 5 × 32 (2021–22 to 2025–26, Seattle) = 764 → 764/25 = 30.560
-* **NFL:** 2 × 31 (2000, 2001 seasons) + 24 × 32 (2002–2025, Houston joins 2002) = 830 → 830/26 = 31.923
-* **NBA:** 4 × 29 (2000–01 to 2003–04) + 22 × 30 (2004–05 to 2025–26, Charlotte Bobcats join) = 776 → 776/26 = 29.846
+* **⚾ MLB:** 30 teams × 27 = 810 → 30.000
+* **🏒 NHL:** 16 × 30 (2000–01 to 2016–17, lockout year excluded) + 4 × 31 (2017–18 to 2020–21, Vegas) + 5 × 32 (2021–22 to 2025–26, Seattle) = 764 → 764/25 = 30.560
+* **🏈 NFL:** 2 × 31 (2000, 2001 seasons) + 24 × 32 (2002–2025, Houston joins 2002) = 830 → 830/26 = 31.923
+* **🏀 NBA:** 4 × 29 (2000–01 to 2003–04) + 22 × 30 (2004–05 to 2025–26, Charlotte Bobcats join) = 776 → 776/26 = 29.846
 
 ## Market counts (denominators for Table 2)
 
-* **MLB (32):** 30 franchises + Washington (Expos moved from Montreal, 2005) + Las Vegas (Athletics, per ruling; Sacramento not counted).
-* **NHL (34):** 30 at start of window + Vegas (2017) + Seattle (2021) + Winnipeg (Thrashers relocation, 2011) + Utah (2024, counted as expansion). Atlanta and Phoenix/Arizona remain separate markets.
-* **NFL (35):** 31 at start of window + Houston (2002) + Los Angeles Rams (2016) + Los Angeles Chargers (2017) + Las Vegas Raiders (2020). St. Louis, San Diego and Oakland remain separate markets.
-* **NBA (34):** 29 at start of window + Charlotte Bobcats (2004) + Memphis (from Vancouver, 2001) + New Orleans (Hornets relocation, 2002) + Oklahoma City (from Seattle, 2008) + Brooklyn (from New Jersey, 2012). Lakers and Clippers are separate markets.
+* **⚾ MLB (32):** 30 franchises + Washington (Expos moved from Montreal, 2005) + Las Vegas (Athletics, per ruling; Sacramento not counted).
+* **🏒 NHL (34):** 30 at start of window + Vegas (2017) + Seattle (2021) + Winnipeg (Thrashers relocation, 2011) + Utah (2024, counted as expansion). Atlanta and Phoenix/Arizona remain separate markets.
+* **🏈 NFL (35):** 31 at start of window + Houston (2002) + Los Angeles Rams (2016) + Los Angeles Chargers (2017) + Las Vegas Raiders (2020). St. Louis, San Diego and Oakland remain separate markets.
+* **🏀 NBA (34):** 29 at start of window + Charlotte Bobcats (2004) + Memphis (from Vancouver, 2001) + New Orleans (Hornets relocation, 2002) + Oklahoma City (from Seattle, 2008) + Brooklyn (from New Jersey, 2012). Lakers and Clippers are separate markets.
 
 Two relocations beyond the ones specified (Hornets → New Orleans, Nets → Brooklyn) were counted as new markets for consistency; remove them to see the sensitivity.
 
 ## Corrections to the earlier version
 
-* MLB unique champions are 16 through 2025 (17 once the 2026 World Series is decided), not 15. The earlier version's 27 seasons counted 2026 before it was played; it is now included as provisional.
-* NHL unique finalists are 24, not 22.
-* NBA unique champions are 13 (Knicks, 2026) and finalists 18, not 12 and 19.
-* NFL finalists are 20 for this window (the 21 in the earlier version counted Super Bowl XXXIV's Titans).
-* NHL and NBA team-count timelines were mis-dated (Seattle joined 2021–22; Charlotte joined 2004–05).
+* ⚾ MLB unique champions are 17 (16 through 2025, plus the 2026 Brewers), not 15, across 27 completed World Series.
+* 🏒 NHL unique finalists are 24, not 22.
+* 🏀 NBA unique champions are 13 (Knicks, 2026) and finalists 18, not 12 and 19.
+* 🏈 NFL finalists are 20 for this window (the 21 in the earlier version counted Super Bowl XXXIV's Titans).
+* 🏒 NHL and 🏀 NBA team-count timelines were mis-dated (Seattle joined 2021–22; Charlotte joined 2004–05).
 * The earlier "metro market" table was neither true metros nor consistent team-locations; its totals were off by 1 to 3.
 
 ## Caveats
 
-* Unique-count parity depends on the number of finals (k). A pure lottery with the same k and N̄ would produce about 18.0 (MLB, k = 27), 17.3 (NHL), 18.0 (NFL) and 17.5 (NBA) unique champions, against 17, 14, 13 and 13 observed.
-* Table 2's denominator includes every market that hosted a team in the window, so leagues with more relocations (NBA, NFL) are penalized slightly; a seasons-weighted market denominator would remove this.
-* When the 2026 World Series ends, move the winner from the pending line to the champions list with its year; the other team stays under finalists. Counts and percentages do not change.
+* Unique-count parity depends on the number of finals (k). A pure lottery with the same k and N̄ would produce about 18.0 (⚾ MLB, k = 27), 17.3 (🏒 NHL), 18.0 (🏈 NFL) and 17.5 (🏀 NBA) unique champions, against 17, 14, 13 and 13 observed.
+* Table 2's denominator includes every market that hosted a team in the window, so leagues with more relocations (🏀 NBA, 🏈 NFL) are penalized slightly; a seasons-weighted market denominator would remove this.
+* The 🏈 NFL window ends with the 2025 season (Super Bowl LX); the 2026 season has not been played.
 
 ## Sources
 
@@ -427,4 +420,5 @@ Two relocations beyond the ones specified (Hornets → New Orleans, Nets → Bro
 * [2026 World Series schedule (Ticketmaster)](https://blog.ticketmaster.com/mlb-world-series-explained/)
 * [2026 MLB playoffs schedule (PrizePicks)](https://www.prizepicks.com/playbook-article/when-is-the-world-series-full-2026-mlb-playoffs-schedule)
 * [What you need to know about the 2026 World Series (MLB.com)](https://www.mlb.com/rays/news/2026-mlb-world-series-faq-schedule-times-teams-and-more)
+* [Brewers rout Rays 10-1, one win from first title (WUNC/AP)](https://www.wunc.org/2026-10-27/brewers-rout-the-rays-10-1-to-move-within-a-win-of-their-first-world-series-title)
 * [Brewers will face Rays for 2026 championship (FOX6 Milwaukee)](https://www.fox6now.com/sports/brewers-world-series-rays-2026)
